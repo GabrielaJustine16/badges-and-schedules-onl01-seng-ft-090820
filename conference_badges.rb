@@ -22,17 +22,17 @@ def printer(speakers)
 end
 # Write your
 
-def badge_maker(name)
-  puts "Hello, my name is #{name}"
-end
+# def badge_maker(name)
+#   puts "Hello, my name is #{name}"
+# end
 
-def batch_badge_creator(names)
-  names.collect{|names| badge_maker(names)}
-end 
+# def batch_badge_creator(names)
+#   names.collect{|names| badge_maker(names)}
+# end 
 
-def assign_rooms(attendees)
+# def assign_rooms(attendees)
   
-end 
+# end 
 
 
 
